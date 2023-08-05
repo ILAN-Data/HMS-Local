@@ -1,0 +1,7 @@
+Name: Ilanchezhiyan
+Cardno: 2000F
+Gender: MALE
+Date: 2021-02-12
+Token No: 1
+Doctor name: Dr.Doctor4
+Time: 2:00
